@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21d3a0cf.css",
+    "main.js": "/static/js/main.0f595fc8.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/3.jpg": "/static/media/3.5d79a30dda5a6af374e7.jpg",
+    "static/media/bg-cadastro-profissional.jpg": "/static/media/bg-cadastro-profissional.76aeb4ddf223fd771a64.jpg",
+    "static/media/cadastro-empresa.jpg": "/static/media/cadastro-empresa.f1a2bf22f67c1023d889.jpg",
+    "static/media/vagas-img2.png": "/static/media/vagas-img2.ca419311c42ae060a8b6.png",
+    "static/media/2.jpg": "/static/media/2.89c6ad1847e132256cea.jpg",
+    "static/media/article-img-2.jpg": "/static/media/article-img-2.92cac45f541b968e12da.jpg",
+    "static/media/1.jpg": "/static/media/1.8a565374576e06a98e72.jpg",
+    "static/media/cadastro-profissional.jpg": "/static/media/cadastro-profissional.db41fb05a757553897fa.jpg",
+    "static/media/bg-cadastro-empresa.jpg": "/static/media/bg-cadastro-empresa.d8b2a9be13d614d2da7a.jpg",
+    "static/media/curriculo2.png": "/static/media/curriculo2.7169b610a9eddd137d13.png",
+    "static/media/curriculo1.png": "/static/media/curriculo1.83016809d43de5be2f52.png",
+    "static/media/phone.png": "/static/media/phone.a19eefaf1a4587c742ac.png",
+    "static/media/header-img.svg": "/static/media/header-img.aa9339d5da517ccd36cd3e98cc902a51.svg",
+    "static/media/vagas-img1.png": "/static/media/vagas-img1.216de740231297e90fc6.png",
+    "static/media/PessoaDesenvolvedora.jpg": "/static/media/PessoaDesenvolvedora.57c05037a9a264b2fe67.jpg",
+    "static/media/article-img-1.jpg": "/static/media/article-img-1.a96d86f8f53e8b106258.jpg",
+    "static/media/phone-match.jpg": "/static/media/phone-match.416e2223ca922acbf6fa.jpg",
+    "static/media/BlackedinLogo.svg": "/static/media/BlackedinLogo.e897d461b80662a00a44f2233582670b.svg",
+    "static/media/img-prof.png": "/static/media/img-prof.6635089c3d82aa118622.png",
+    "static/media/perfil-empresa.png": "/static/media/perfil-empresa.8525003e7e183a6e771b.png",
+    "index.html": "/index.html",
+    "main.21d3a0cf.css.map": "/static/css/main.21d3a0cf.css.map",
+    "main.0f595fc8.js.map": "/static/js/main.0f595fc8.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21d3a0cf.css",
+    "static/js/main.0f595fc8.js"
+  ]
+}
